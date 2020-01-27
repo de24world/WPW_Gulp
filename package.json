@@ -25,7 +25,7 @@
     "imagemin-optipng": "^5.2.0",
     "imagemin-pngcrush": "^0.1.0",
     "imagemin-pngquant": "^5.0.0",
-    "jquery": "^2.1.1",
+    "jquery": "^3.4.1",
     "mustache": "^0.8.1"
   }
 }
